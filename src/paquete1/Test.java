@@ -11,11 +11,12 @@ public class Test {
 		Operaciones ope=Operaciones.SUMA;
 		double res=Operaciones.SUMA.resultado(a,b);
 		System.out.println(res);
+		System.out.println("Hola mundo");
 	}
 
 }
 
-//FEO
+//MODO MENOS ELEGANTE
 /*double res=0;
 if(ope==Operaciones.SUMA){
 	res= a+b;
