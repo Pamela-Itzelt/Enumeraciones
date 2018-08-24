@@ -12,6 +12,11 @@ public class Test {
 		double res=Operaciones.SUMA.resultado(a,b);
 		System.out.println(res);
 		System.out.println("Hola mundo");
+		
+//		Operaciones ope[]=Operaciones.values();
+//		for(int i=0; i<ope.length;i++){
+//			System.out.println(ope[i].name());
+//		}
 	}
 
 }
